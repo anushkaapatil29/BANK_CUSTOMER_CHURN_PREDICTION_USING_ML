@@ -344,6 +344,7 @@ This project is provided as-is for educational and portfolio purposes.
 
 ---
 
-**Built with ❤️ for Data Science Excellence**
+**Live Demo**: https://bankcustomerchurnpredictionusingml-jykdx8frkbn4klcnqxz7f3.streamlit.app/ 
 
 *Version 1.0 | January 2026*
+
